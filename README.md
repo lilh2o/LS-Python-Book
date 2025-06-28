@@ -6,3 +6,4 @@ Launch School Python Book Practice and Exercises
 - Data Types
 - Basic Operations
 - Variables
+- Inputs/Outputs
